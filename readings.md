@@ -9,11 +9,13 @@
 ## Evaluation
 - https://dl.acm.org/doi/abs/10.1145/3299869.3319893	(only sections about experimental evaluation, skip the theoretical model stuff)
 
+## Surveys and Tutorials on ML-for-Systems
+- A Survey of Machine Learning for Computer Architecture and Systems: https://dl.acm.org/doi/full/10.1145/3494523 (skip all ML for computer architecture stuff)
+- ML for Cloud Data Systems: https://dl.acm.org/doi/pdf/10.14778/3476311.3476408
 
-## Other ML for Systems papers
+## Systems that use ML-for-Systems ideas
 - https://www.semanticscholar.org/paper/Automatic-Database-Management-System-Tuning-Through-Aken-Pavlo/6a9fa4c579bfd4fe4b1b06f384b946c5c28e1c47
 - https://www.semanticscholar.org/paper/OPTIMUSCLOUD%3A-Heterogeneous-Configuration-for-in-Mahgoub-Medoff/287d635014a94035447996c80df08fecf88c98a4
 - https://www.usenix.org/conference/atc20/presentation/mahgoub
-- ML for Cloud Data Systems: https://dl.acm.org/doi/pdf/10.14778/3476311.3476408
 - SageDB: A Learned Database System http://www.alexbeutel.com/papers/CIDR2019_SageDB.pdf (look at models and maybe get inspiration)
 - List of ML for Database systems: https://github.com/LumingSun/ML4DB-paper-list
