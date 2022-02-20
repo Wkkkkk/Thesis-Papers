@@ -14,6 +14,7 @@
 - ML for Cloud Data Systems: https://dl.acm.org/doi/pdf/10.14778/3476311.3476408
 - List of ML for Database systems: https://github.com/LumingSun/ML4DB-paper-list
 - ML for workload: https://github.com/LumingSun/ML4DB-paper-list#workload
+- Survey on Learnable Databases: A Machine Learning Perspective: https://www.sciencedirect.com/science/article/pii/S2214579621001210 (workload and partitioning is especially interesting for us)
 
 ## Systems that use ML-for-Systems ideas
 - https://www.semanticscholar.org/paper/Automatic-Database-Management-System-Tuning-Through-Aken-Pavlo/6a9fa4c579bfd4fe4b1b06f384b946c5c28e1c47
